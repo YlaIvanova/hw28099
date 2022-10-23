@@ -22,6 +22,14 @@ public class Main {
         Bus yaz = new Bus("УАЗ","АВТО",2018,"Россия","синий",200,"бензиновый");
 
 
+        System.out.println(lada);
+        System.out.println(bmw);
+        System.out.println(kia);
+        System.out.println(lastochka);
+        System.out.println(leningrad);
+        System.out.println(liaz);
+        System.out.println(gaz);
+        System.out.println(yaz);
 
     }
 }
